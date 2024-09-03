@@ -4,8 +4,16 @@ from webdriver_manager.chrome import ChromeDriverManager
 import time
 
 urls = [
-     "https://link1.com",
-     "https://link2.com"
+     "https://safesites.marketjs-cloud2.com/en/safesites-whats-grandma-hiding/index.html",
+"https://safesites.marketjs-cloud2.com/en/safesites-coin-empire-advanced/index.html",
+"https://safesites.marketjs-cloud2.com/en/safesites-omg-zombie-run/index.html",
+"https://safesites.marketjs-cloud2.com/en/safesites-king-kong-kart-racing/index.html",
+"https://safesites.marketjs-cloud2.com/en/safesites-idle-mole-empire/index.html",
+"https://safesites.marketjs-cloud2.com/en/safesites-office-wrestling-royale/index.html",
+"https://safesites.marketjs-cloud2.com/en/safesites-hercules-climb/index.html",
+"https://safesites.marketjs-cloud2.com/en/safesites-ball-jump/index.html",
+"https://safesites.marketjs-cloud2.com/en/safesites-snake-blockade/index.html",
+"https://safesites.marketjs-cloud2.com/en/safesites-evade-the-missile/index.html",
 ]
 
 options = webdriver.ChromeOptions()
