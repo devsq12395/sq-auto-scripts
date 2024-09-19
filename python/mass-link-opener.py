@@ -4,16 +4,16 @@ from webdriver_manager.chrome import ChromeDriverManager
 import time
 
 urls = [
-     "https://safesites.marketjs-cloud2.com/en/safesites-whats-grandma-hiding/index.html",
-"https://safesites.marketjs-cloud2.com/en/safesites-coin-empire-advanced/index.html",
-"https://safesites.marketjs-cloud2.com/en/safesites-omg-zombie-run/index.html",
-"https://safesites.marketjs-cloud2.com/en/safesites-king-kong-kart-racing/index.html",
-"https://safesites.marketjs-cloud2.com/en/safesites-idle-mole-empire/index.html",
-"https://safesites.marketjs-cloud2.com/en/safesites-office-wrestling-royale/index.html",
-"https://safesites.marketjs-cloud2.com/en/safesites-hercules-climb/index.html",
-"https://safesites.marketjs-cloud2.com/en/safesites-ball-jump/index.html",
-"https://safesites.marketjs-cloud2.com/en/safesites-snake-blockade/index.html",
-"https://safesites.marketjs-cloud2.com/en/safesites-evade-the-missile/index.html",
+     "https://games.arcadebrilliance.com/en/stellar-conceptual-2048-forever/index.html?m=57986295ed0a1b8145a3d8d8725edcabdbccd469",
+"https://games.arcadebrilliance.com/en/stellar-conceptual-hidden-object-city/index.html?m=57986295ed0a1b8145a3d8d8725edcabdbccd469",
+"https://games.arcadebrilliance.com/en/stellar-conceptual-coffee-drip/index.html?m=57986295ed0a1b8145a3d8d8725edcabdbccd469",
+"https://games.arcadebrilliance.com/en/stellar-conceptual-superhero-memory-match-hd/index.html?m=57986295ed0a1b8145a3d8d8725edcabdbccd469",
+"https://games.arcadebrilliance.com/en/stellar-conceptual-ball-drop/index.html?m=57986295ed0a1b8145a3d8d8725edcabdbccd469",
+"https://games.arcadebrilliance.com/en/stellar-conceptual-sort-the-trash-drag-and-drop/index.html?m=57986295ed0a1b8145a3d8d8725edcabdbccd469",
+"https://games.arcadebrilliance.com/en/stellar-conceptual-omg-word-professor/index.html?m=57986295ed0a1b8145a3d8d8725edcabdbccd469",
+"https://games.arcadebrilliance.com/en/stellar-conceptual-word-finder-pro/index.html?m=57986295ed0a1b8145a3d8d8725edcabdbccd469",
+"https://games.arcadebrilliance.com/en/stellar-conceptual-sommelier-pour/index.html?m=57986295ed0a1b8145a3d8d8725edcabdbccd469",
+"https://games.arcadebrilliance.com/en/stellar-conceptual-mini-crossword/index.html?m=57986295ed0a1b8145a3d8d8725edcabdbccd469"
 ]
 
 options = webdriver.ChromeOptions()
